@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="GaitovDI_03_03/GaitovDI_03_03.vcxproj" />
+</Solution>
